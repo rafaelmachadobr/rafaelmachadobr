@@ -4,8 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=rafaelmachadobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas%20da%20minha%20conta:"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmachadobr&layout=compact&langs_count=7&theme=dracula&custom_title=Tecnologias%20mais%20utilizadas:"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rafaelmachadobr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas%20da%20minha%20conta:"/>
 </div>
 
 <h2>Habilidades:</h2>
