@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=2000&color=F7F7F7&width=900&lines=+Ol%C3%A1%2C+Eu+sou+o+Rafael+seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=F7F7F7&width=900&lines=Ol%C3%A1+Mundo!%2C+Eu+sou+o+Rafael+seja+bem-vindo+ao+meu+perfil!" alt="Typing SVG" />
 </p>
 
 ## 📖 Sobre mim
@@ -36,7 +36,7 @@ Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Co
   <img align="center" alt="Next.js" height="30" width="40" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Sass" height="30" width="40" title="Sass" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Tailwind CSS" height="30" width="40" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Tailwind CSS" height="30" width="40" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Figma" height="30" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
@@ -45,6 +45,8 @@ Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Co
 <div style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" title="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="30" width="40" title="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Flask" height="30" width="40" title="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="FastAPI" height="30" width="40" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="TypeScript" height="30" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Express.js" height="30" width="40" title="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
@@ -59,6 +61,7 @@ Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Co
   <img align="center" alt="PostgreSQL" height="30" width="40" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="SQLite" height="30" width="40" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Redis" height="30" width="40" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
 </div>
 
 ### Mobile
@@ -68,6 +71,17 @@ Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Co
   <img align="center" alt="Dart" height="30" width="40" title="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" title="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Kotlin" height="30" width="40" title="Kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
+</div>
+
+### DevOps
+
+<div style="display: inline_block">
+  <img align="center" alt="Docker" height="30" width="40" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="center" alt="GitLab" height="30" width="40" title="GitLab" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg">
+  <img align="center" alt="Vercel" height="30" width="40" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg">
+  <img align="center" alt="Azure" height="30" width="40" title="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div>
 
 ## 📈 Status
@@ -101,3 +115,13 @@ Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Co
   </tr>
 </table>
 <br>
+
+## 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelmachadobr/rafaelmachadobr/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafaelmachadobr/rafaelmachadobr/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rafaelmachadobr/rafaelmachadobr/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
