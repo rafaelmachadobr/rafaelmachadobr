@@ -10,7 +10,7 @@
 
 ## 📖 Sobre mim
 
-Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Computação na Universidade Paulista, já no 4º semestre. Minha paixão pelo desenvolvimento web é algo que me move, assim como a empolgação por tecnologias inovadoras. Estou em busca de oportunidades emocionantes para aplicar tudo que venho aprendendo, especialmente em projetos desafiadores que me permitam crescer e contribuir.
+Olá! Prazer em conhecê-lo. Sou Desenvolvedor Full Stack com mais de 2 anos de experiência no desenvolvimento e manutenção de sistemas utilizados diretamente na operação do negócio. Sou formado em Ciência da Computação pela Universidade Paulista (UNIP) e atuo em ambientes que exigem estabilidade, segurança e respostas rápidas. Tenho foco em criar soluções bem estruturadas, fáceis de manter e alinhadas às necessidades reais do negócio, sempre buscando evoluir tecnicamente e entregar valor de forma consistente.
 
 ## 📫 Contatos
 
@@ -111,7 +111,6 @@ Olá! Prazer em conhecê-lo. Sou um ex-Proano e atualmente estudo Ciência da Co
     </td>
   </tr>
 </table>
-<br>
 
 ## 🐍 Contribuições
 
